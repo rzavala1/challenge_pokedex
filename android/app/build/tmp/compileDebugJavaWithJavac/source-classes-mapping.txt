@@ -1,0 +1,14 @@
+com/challenge_pokedex/ReactNativeFlipper.java
+ com.challenge_pokedex.ReactNativeFlipper
+ com.challenge_pokedex.ReactNativeFlipper$1
+ com.challenge_pokedex.ReactNativeFlipper$2
+ com.challenge_pokedex.ReactNativeFlipper$2$1
+com/challenge_pokedex/BuildConfig.java
+ com.challenge_pokedex.BuildConfig
+com/challenge_pokedex/MainApplication.java
+ com.challenge_pokedex.MainApplication
+ com.challenge_pokedex.MainApplication$1
+com/facebook/react/PackageList.java
+ com.facebook.react.PackageList
+com/challenge_pokedex/MainActivity.java
+ com.challenge_pokedex.MainActivity
